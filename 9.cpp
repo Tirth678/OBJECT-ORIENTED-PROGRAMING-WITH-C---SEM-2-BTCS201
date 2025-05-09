@@ -1,7 +1,7 @@
     // Write a program to show the working of different 
     // access specifiers
     #include<iostream>
-using namespace std;
+    using namespace std;
 
 class Teacher {
 protected:  // Accessible in derived classes, but not outside

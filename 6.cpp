@@ -15,7 +15,6 @@ int main() {
     // Explicit type casting
     double z = 3.14159;
     cout << "\nExplicit casting examples: " << endl;
-    cout << "Double to int: " << (int)z << endl;     // C-style cast
     
     return 0;
 }
